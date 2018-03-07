@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarparkCalculation", "CarparkCalculation\CarparkCalculation.csproj", "{4C22DA55-D9BA-4DC8-9AF2-6D3FC1EBE6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarparkCalculation.Tests", "CarparkCalculationTests\CarparkCalculation.Tests.csproj", "{B15714EE-D15A-4366-A4A1-4EE40D87230A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C22DA55-D9BA-4DC8-9AF2-6D3FC1EBE6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C22DA55-D9BA-4DC8-9AF2-6D3FC1EBE6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C22DA55-D9BA-4DC8-9AF2-6D3FC1EBE6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C22DA55-D9BA-4DC8-9AF2-6D3FC1EBE6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15714EE-D15A-4366-A4A1-4EE40D87230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15714EE-D15A-4366-A4A1-4EE40D87230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15714EE-D15A-4366-A4A1-4EE40D87230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15714EE-D15A-4366-A4A1-4EE40D87230A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
